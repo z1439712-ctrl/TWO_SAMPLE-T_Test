@@ -1,8 +1,7 @@
 # TWO_SAMPLE-T_Test
 Independent Two-Sample t-Test Analysis
 
-Name: Fatema Islam Ivy
-ID: 097
+
 
 Project Overview:
 This project performs an Independent Two-Sample t-Test to determine whether there is a statistically significant difference between the means of two independent groups.
